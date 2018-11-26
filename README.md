@@ -1,5 +1,8 @@
 **Police Backup - By FAXES**
 
+# Discord Help
+http://faxes.zone/discord
+
 **About**
 Hello fellow people of the FiveM forums. Today I present to you a script that I have come and passed, in terms of wanting to make this. The past days I said f*ck it and did it. So this script gives *your* officers the ability to request backup from the other officers. It send the location and sets a cool little way-point ;)
 
@@ -24,3 +27,5 @@ http://faxes.zone/imagebanks/bhv0z9.png
 - Notifications above map for a clean look
 - Map way-point set on initiating officer
 -  Location in message for easy knowledge of area
+
+[FiveM Forums Post](https://forum.fivem.net/t/release-police-backup-sets-waypoint-clean-layout-display-1-0/189439)
